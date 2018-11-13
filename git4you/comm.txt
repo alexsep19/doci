@@ -1,0 +1,19 @@
+находясь в бранче или master
+
+обновить master в локале
+git fetch origin master
+
+догнать бранч до master
+git pull --rebase origin master
+
+git push origin Бранч
+
+схлопнуть commit
+git reset --soft head~5   включая 5-й
+git push origin [branch] --force
+git push
+----
+git checkout [branch] - не обновляет измененные файлы
+git reset --hard [branch] - все обновить
+----
+git log --oneline
