@@ -1,0 +1,25 @@
+<document type="ProfiCAD sxe" version="8.0">
+<fonts letter="155,0,0,0,Lucida Sans Unicode,000000" text="110,0,0,0,Lucida Sans Unicode,000000" type="85,0,0,0,Arial,FF00FF" refs="85,0,0,0,Arial,008000" cross_refs="85,0,0,1,Arial,0000FF" outlets="85,0,0,0,Arial,000000"/>
+<PrintSettings PrinterName="" PaperSize="1" FormName="letter" SheetSizeX="288" SheetSizeY="198" WantsCustom="1" CustomSizeX="760" CustomSizeY="560"/>
+<PrinterSettings PaperSizeX="2100" PaperSizeY="2970" PhysicalOffestTenthMm_X="60" PhysicalOffestTenthMm_Y="42"/>
+<tb use="1" name="C:\temp\ProfiCAD\ProfiCAD Library\_TB\standard7.ptb"/>
+<PageSettings bgColor="FFFFFF" pgsHor="1" pgsVer="1" pgsMrgn="0, 0, 0, 0" pageMargins="10, 10, 10, 10" zoom="35" frame="YES" rastr="20" showT="YES" showV="YES" includeMargins="YES"/>
+<RefGridSettings FieldSize="50"/>
+<NumberingWire Digits="3" TypeRenumbering="0" ShowWireName="0" WireLabelDist_a="6" WireLabelDist_b="7" WireLabelDist_c="7"/>
+<summary author="" date="30.11.2018"/>
+<BillColumns/>
+<pages current="0">
+<page name="1">
+<tb use="1"/>
+<summary _potb="1" _sc="" _po="1" _pa="1"/>
+<layers current="1">
+<layer name="-1" v="1"/>
+<layer name="0" v="1">
+<polyline pts="-2220,-460,-2260,-500,"/>
+<polyline pts="2600,0,2600,5600,"/>
+<polyline pts="2700,0,2700,5600,"/>
+</layer>
+</layers>
+</page>
+</pages>
+</document>
