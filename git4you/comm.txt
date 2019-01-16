@@ -4,7 +4,7 @@
 git fetch origin master
 
 догнать бранч до master
-git pull --rebase origin master
+git pull --rebase origin [master]
 
 git push origin Бранч
 
@@ -17,3 +17,8 @@ git checkout [branch] - не обновляет измененные файлы
 git reset --hard [branch] - все обновить
 ----
 git log --oneline
+-------занести обновления из master в dev?
+<m>git checkout dev
+<dev>git fetch origin master
+<dev>git pull --rebase origin master
+<dev>git push origin dev
