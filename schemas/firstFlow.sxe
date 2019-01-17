@@ -3,7 +3,7 @@
 <PrintSettings PrinterName="" PaperSize="1" FormName="letter" SheetSizeX="288" SheetSizeY="198" WantsCustom="1" CustomSizeX="760" CustomSizeY="560"/>
 <PrinterSettings PaperSizeX="2100" PaperSizeY="2970" PhysicalOffestTenthMm_X="60" PhysicalOffestTenthMm_Y="42"/>
 <tb use="1" name="C:\temp\ProfiCAD\ProfiCAD Library\_TB\standard7.ptb"/>
-<PageSettings bgColor="FFFFFF" pgsHor="1" pgsVer="1" pgsMrgn="0, 0, 0, 0" pageMargins="10, 10, 10, 10" zoom="35" frame="YES" rastr="20" showT="YES" showV="YES" includeMargins="YES"/>
+<PageSettings bgColor="FFFFFF" pgsHor="1" pgsVer="1" pgsMrgn="0, 0, 0, 0" pageMargins="10, 10, 10, 10" zoom="25" frame="YES" rastr="20" showT="YES" showV="YES" includeMargins="YES"/>
 <RefGridSettings FieldSize="50"/>
 <NumberingWire Digits="3" TypeRenumbering="0" ShowWireName="0" WireLabelDist_a="6" WireLabelDist_b="7" WireLabelDist_c="7"/>
 <summary author="" date="30.11.2018"/>
@@ -15,9 +15,63 @@
 <layers current="1">
 <layer name="-1" v="1"/>
 <layer name="0" v="1">
-<polyline pts="-2220,-460,-2260,-500,"/>
 <polyline pts="2600,0,2600,5600,"/>
 <polyline pts="2700,0,2700,5600,"/>
+<polyline pts="7600,240,7540,240,"/>
+<polyline pts="7600,1400,7540,1400,"/>
+<polyline pts="7540,240,7540,1400,"/>
+<polyline pts="7600,4400,7560,4400,"/>
+<polyline pts="7600,3280,7560,3280,"/>
+<polyline pts="7020,5600,7020,5560,"/>
+<polyline pts="6060,5600,6060,5560,"/>
+<polyline pts="6060,5560,7020,5560,"/>
+<polyline pts="860,5600,860,5560,"/>
+<polyline pts="1980,5600,1980,5560,"/>
+<polyline pts="1980,5560,860,5560,"/>
+<polyline pts="3520,5600,3520,5560,"/>
+<polyline pts="4640,5600,4640,5560,"/>
+<polyline pts="4640,5560,3520,5560,"/>
+<polyline pts="140,5600,140,0,"/>
+<polyline pts="4180,3780,5060,3780,"/>
+<polyline pts="4180,3780,4180,1920,"/>
+<polyline pts="5060,3780,5060,3240,"/>
+<text x="1380" y="5520" f="155,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">113</text>
+<text x="480" y="5540" f="155,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">75</text>
+<text x="2500" y="5520" f="155,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">155</text>
+<text x="5360" y="5520" f="155,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">142</text>
+<text x="7340" y="5520" f="155,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">51</text>
+<text x="6560" y="5580" f="155,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">97</text>
+<text x="7540" y="5000" t="2" f="155,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">121</text>
+<polyline pts="7560,3280,7560,4400,"/>
+<text x="7540" y="2160" t="2" f="155,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">189</text>
+<text x="7520" y="140" t="2" f="155,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">23</text>
+<polyline pts="5060,3200,5060,0,"/>
+<polyline pts="5060,3800,5060,5600,"/>
+<polyline pts="5140,0,5140,5600,"/>
+<polyline pts="7600,1900,5140,1900,"/>
+<polyline pts="7600,2000,5140,2000,"/>
+<rect left="1920" top="3380" right="3180" bottom="4400"/>
+<polyline pts="5060,5200,5140,5200,"/>
+<polyline pts="5140,4400,5060,4400,"/>
+<polyline pts="2600,5400,2700,5400,"/>
+<polyline pts="2600,4600,2700,4600,"/>
+<polyline pts="3000,4460,3000,5500,"/>
+<text x="3020" y="4920" f="155,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">120</text>
+<polyline pts="4220,1540,4220,2800,"/>
+<polyline pts="4220,2800,5820,2800,"/>
+<polyline pts="5820,2000,5820,2800,"/>
+<text x="4600" y="3740" f="155,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">89</text>
+<text x="4840" y="2820" f="155,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">161</text>
+<text x="5840" y="2480" f="155,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">80</text>
+<text x="4220" y="1820" f="155,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">125</text>
+<text x="6700" y="2160" f="155,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">178</text>
+<text x="5820" y="1140" f="155,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">201</text>
+<polyline pts="4220,1540,5180,1540,"/>
+<polyline pts="5180,1540,5180,2000,"/>
+<polyline pts="5900,1200,7600,1200,"/>
+<polyline pts="5900,1200,5900,1900,"/>
+<text x="6720" y="1160" f="155,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">170</text>
+<text x="6000" y="1580" f="155,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">71</text>
 </layer>
 </layers>
 </page>
