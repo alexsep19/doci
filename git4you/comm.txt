@@ -8,6 +8,7 @@
 или 
 <dev>git rebase master
 <dev>git rebase --abort отмена
+
 разрешение конфликта:
 <dev>git add %filename%
 git rebase --continue
