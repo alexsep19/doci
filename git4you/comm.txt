@@ -1,10 +1,17 @@
 находясь в бранче или master
 
 обновить master в локале
-git fetch origin master
+<m>git fetch origin master
 
 догнать бранч до master
-git pull --rebase origin [master]
+<dev>git pull --rebase origin [master]
+или 
+<dev>git rebase master
+<dev>git rebase --abort отмена
+разрешение конфликта:
+<dev>git add %filename%
+git rebase --continue
+git rebase --skip изменений в рабочей копии нет.
 
 git push origin Бранч
 
@@ -22,3 +29,4 @@ git log --oneline
 <dev>git fetch origin master
 <dev>git pull --rebase origin master
 <dev>git push origin dev
+-------
