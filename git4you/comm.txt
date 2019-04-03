@@ -1,3 +1,15 @@
+#tree graph
+git log --graph --decorate --oneline
+git log --graph --oneline
+git log --graph --full-history --all --pretty=format:"%h%x09%d%x20%s"
+
+git pull origin master
+
+#new branch: git branch [branch], git checkout [branch]
+<m>git checkout -b [branch]
+git commit -a -m ""
+git push --set-upstream origin Sepity_523b0cab
+
 находясь в бранче или master
 
 обновить master в локале
