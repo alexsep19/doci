@@ -7,3 +7,7 @@ sudo -s Execute as user root using sudo
 tar -xvzf community_images.tar.gz
 
 ln -s /usr/bin/awk /bin/awk создание линка
+
+место на диске
+df -h
+du -sh /path/*
